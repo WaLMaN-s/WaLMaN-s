@@ -5,7 +5,7 @@
 
 <img src="assets/arch-linux-animated.svg" width="180" alt="Animated Arch Linux Logo">
 
-# `WaLMaN-s`
+
 
 ### Linux Enthusiast · Full Stack Developer · Open Source Explorer
 
@@ -20,6 +20,13 @@
 ---
 
 ## 🧑‍💻 About Me
+<div align="center">
+
+### `~$ echo "I use Arch, btw."`
+
+**Thanks for visiting my profile!** 💙
+
+</div>
 
 ```bash
 ┌──(walman㉿archlinux)-[~]
@@ -90,25 +97,5 @@ Interests  : Web Development, Linux, Open Source
 </div>
 
 
----
 
-## 🌐 Connect With Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-16161e?style=for-the-badge&logo=github)](https://github.com/WaLMaN-s)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=firefox&logoColor=white)](https://walman-s.github.io/myportofolio/)
-
-</div>
-
----
-
-<div align="center">
-
-### `~$ echo "I use Arch, btw."`
-
-<img src="https://komarev.com/ghpvc/?username=WaLMaN-s&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
-
-**Thanks for visiting my profile!** 💙
-
-</div>
