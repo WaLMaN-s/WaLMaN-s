@@ -25,13 +25,9 @@
 ┌──(walman㉿archlinux)-[~]
 └─$ whoami
 
-Name       : Walman
 Username   : WaLMaN-s
 OS         : Arch Linux
 WM         : i3 Window Manager
-Shell      : Fish
-Terminal   : Kitty
-Editor     : VS Code / Neovim
 Interests  : Web Development, Linux, Open Source
 ```
 
@@ -85,16 +81,6 @@ Interests  : Web Development, Linux, Open Source
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WaLMaN-s&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -103,39 +89,6 @@ Interests  : Web Development, Linux, Open Source
 
 </div>
 
----
-
-## 🧊 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/WaLMaN-s/WaLMaN-s/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Calendar">
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/WaLMaN-s/myportofolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WaLMaN-s&repo=myportofolio&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/WaLMaN-s/lorongkopi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WaLMaN-s&repo=lorongkopi&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/WaLMaN-s/trip_rajaampat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WaLMaN-s&repo=trip_rajaampat&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/WaLMaN-s/project_tiket">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WaLMaN-s&repo=project_tiket&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
