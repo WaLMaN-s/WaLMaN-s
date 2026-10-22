@@ -20,12 +20,6 @@
 ---
 
 ## 🧑‍💻 About Me
-<div align="center">
-
-### `~$ echo "I use Arch, btw."`
-
-</div>
-
 ```bash
 ┌──(walman㉿archlinux)-[~]
 └─$ whoami
