@@ -24,8 +24,6 @@
 
 ### `~$ echo "I use Arch, btw."`
 
-**Thanks for visiting my profile!** 💙
-
 </div>
 
 ```bash
@@ -93,6 +91,14 @@ Interests  : Web Development, Linux, Open Source
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/WaLMaN-s/WaLMaN-s/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile!** 💙
 
 </div>
 
