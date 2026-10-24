@@ -49,7 +49,7 @@ Interests  : Web Development, Linux, Open Source
 
 ### Operating Systems and Tools
 
-<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,fedora,bash,git,github,docker,nginx,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,windows,fedora,bash,git,github,docker,nginx,figma,vscode&theme=dark" />
 
 </div>
 
