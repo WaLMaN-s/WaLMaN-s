@@ -44,23 +44,12 @@ Interests  : Web Development, Linux, Open Source
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,python,java,r,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,java,r,html,css,nextjs,tailwind,vite,laravel,nodejs,mysql,sqlite,supabase&theme=dark" />
 
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase&theme=dark" />
 
 ### Operating Systems and Tools
 
-<img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,fedora,bash,git,github,docker,nginx,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,fedora,bash,git,github,docker,nginx,figma,vscode&theme=dark" />
 
 </div>
 
