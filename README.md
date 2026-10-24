@@ -44,7 +44,7 @@ Interests  : Web Development, Linux, Open Source
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,python,java,r,html,css,nextjs,tailwind,vite,laravel,nodejs,mysql,sqlite,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,php,python,java,r,html,css,nextjs,tailwind,vite,laravel,nodejs,mysql,supabase&theme=dark" />
 
 
 ### Operating Systems and Tools
